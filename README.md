@@ -5,7 +5,7 @@ import psycopg2
 conn = psycopg2.connect(
     database="library management system",
     user="postgres",
-    password="your_password",
+    password="1234",
     host="localhost",
     port="5432"
 )
